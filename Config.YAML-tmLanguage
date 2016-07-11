@@ -26,5 +26,3 @@ patterns:
 - name: string.quoted.double.cfg
   begin: '(\")'
   end: '(\")'
-
-...
